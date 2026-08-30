@@ -1,0 +1,16 @@
+﻿id_consulta,data_consulta,motivo,diagnostico,id_paciente,paciente,genero,especialidade,medico,id_convenio,nome_convenio,tipo_plano,id_pagamento,data_vencimento,data_pagamento,mes_pagamento,valor,forma_pagamento,situacao,atraso_dias
+1,2026-08-01,Dor no peito,Avaliação cardiológica,1,Lucas Ferreira da Silva,Masculino,Cardiologia,Dr. Ricardo Almeida,15,Postal Saúde,Individual,1,2026-08-01,2026-08-01,2026-08,180.0,Cartão de crédito,Pago,0
+2,2026-08-01,Manchas na pele,Dermatite,2,Mariana Alves Santos,Feminino,Dermatologia,Dra. Fernanda Costa,2,Hapvida,Individual,2,2026-08-01,2026-08-01,2026-08,150.0,Pix,Pago,0
+3,2026-08-02,Dor no joelho,Inflamação articular,3,Pedro Henrique Oliveira,Masculino,Ortopedia,Dr. Marcelo Ferreira,14,Unimed João Pessoa,Empresarial,3,2026-08-02,2026-08-02,2026-08,200.0,Cartão de débito,Pago,0
+4,2026-08-03,Febre e tosse,Infecção respiratória,4,Ana Beatriz Costa,Feminino,Pediatria,Dra. Juliana Santos,1,Unimed,Empresarial,4,2026-07-28,2026-08-03,2026-08,120.0,Dinheiro,Pago,6
+5,2026-08-04,Dor de cabeça frequente,Cefaleia,5,Rafael Gomes Pereira,Masculino,Neurologia,Dr. André Martins,3,Amil,Familiar,5,2026-08-03,2026-08-04,2026-08,220.0,Pix,Pago,1
+6,2026-08-05,Consulta de rotina,Avaliação ginecológica,6,Camila Rodrigues Lima,Feminino,Ginecologia,Dra. Camila Rodrigues,4,Bradesco Saúde,Empresarial,6,2026-08-06,2026-08-05,2026-08,180.0,Cartão de crédito,erro no pagamento,-1
+7,2026-08-06,Dificuldade para enxergar,Alteração visual,7,Gabriel Martins Souza,Masculino,Oftalmologia,Dr. Gabriel Oliveira,5,SulAmérica Saúde,Familiar,7,2026-08-06,2026-08-06,2026-08,160.0,Pix,Pago,0
+8,2026-08-07,Cansaço excessivo,Alteração hormonal suspeita,8,Juliana Carvalho Mendes,Feminino,Endocrinologia,Dra. Mariana Lima,6,NotreDame Intermédica,Individual,8,2026-08-04,2026-08-07,2026-08,190.0,Cartão de débito,Pago,3
+9,2026-08-08,Ansiedade,Transtorno de ansiedade,9,Felipe Augusto Rocha,Masculino,Psiquiatria,Dr. Felipe Rocha,7,Porto Seguro Saúde,Empresarial,9,2026-08-01,2026-08-08,2026-08,140.0,Dinheiro,Pago,7
+10,2026-08-10,Dor abdominal,Gastrite,10,Beatriz Fernandes Souza,Feminino,Gastroenterologia,Dr. André Barbosa,8,Assim Saúde,Familiar,10,2026-08-09,2026-08-10,2026-08,170.0,Pix,Pago,1
+11,2026-08-11,Azia frequente,Refluxo gastroesofágico,11,André Luiz Barbosa,Masculino,Gastroenterologia,Dr. André Barbosa,9,Geap Saúde,Individual,11,2026-08-01,2026-08-11,2026-08,210.0,Cartão de crédito,Pago,10
+12,2026-08-12,Dor ao urinar,Infecção urinária,12,Larissa Vitória Ramos,Feminino,Urologia,Dr. Thiago Ramos,10,Cassi,Familiar,12,2026-08-13,2026-08-12,2026-08,150.0,Pix,Pago,-1
+13,2026-08-13,Dor de garganta,Faringite,13,Thiago Nascimento Silva,Masculino,Otorrinolaringologia,Dra. Larissa Nascimento,11,Care Plus,Empresarial,13,2026-08-15,2026-08-13,2026-08,180.0,Cartão de débito,Pago,-2
+14,2026-08-14,Tosse persistente,Inflamação das vias respiratórias,14,Isabela Monteiro Castro,Feminino,Pneumologia,Dra. Isabela Monteiro,12,Prevent Senior,Individual,14,2026-08-17,2026-08-14,2026-08,130.0,Dinheiro,Pago,-3
+15,2026-08-15,Falta de ar,Avaliação pulmonar,15,Bruno César Almeida,Masculino,Pneumologia,Dra. Isabela Monteiro,14,Unimed João Pessoa,Empresarial,15,2026-08-16,2026-08-15,2026-08,200.0,Pix,Pago,-1
